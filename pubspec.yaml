@@ -28,6 +28,7 @@ dependencies:
     sdk: flutter
   smart_auth:
     git: https://github.com/huongrealest/flutter_smart_auth
+    ref: 4c7846524a99cd6416f9c2f9b5951fe1530b5541
   universal_platform: ^1.0.0+1
 
 dev_dependencies:
